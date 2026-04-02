@@ -95,7 +95,7 @@ Data cleaning steps included:
 
 * China dominates global supplier share (~46%), indicating strong dependency
 * USA records the highest import value (~3.8T), showing the largest demand
-* Imports declined in 2020 due to the COVID-19 pandemic, followed by a gradual recovery by 2022, reflecting global supply chain disruption and resilience
+* Imports declined in 2020 but recovered by 2022, reflecting global trade disruption and recovery
 
 ---
 
@@ -187,8 +187,7 @@ The dashboard provides a data-driven foundation for strategic supply chain plann
 
 ## Conclusion
 
-The analysis highlights the dominance of key global suppliers and the varying dependency patterns across importing economies.
-This project helped me better understand global trade dependencies and strengthened my skills in data visualization and analytical thinking.
+The analysis highlights the dominance of key global suppliers and the varying dependency patterns across importing economies, providing insights into global supply chain structure. This project strengthened my ability to analyze real-world trade data, identify patterns, and communicate insights effectively through data visualization.
 
 ---
 

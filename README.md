@@ -142,12 +142,7 @@ Despite these variations, the analysis maintains consistency in identifying over
 
 ## Dashboard Preview
 
-![USA Import](screenshots/usa_import_from_south_korea_2019_2023.png)
-
-![Germany Import](screenshots/germany_import_from_china_2019_2021.png)
-
-![China Import](screenshots/china_import_from_netherlands_2019_2023.png)
-
+![Global Supply Chain Dashboard](images/01_dashboard-overview.png)
 
 ---
 

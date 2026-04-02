@@ -140,11 +140,25 @@ Despite these variations, the analysis maintains consistency in identifying over
 
 ---
 
-## Dashboard Preview
+## Dashboard Previews
 
+### Overview Dashboard  
 ![Global Supply Chain Dashboard](01_dashboard-overview.PNG)
-![Important Dominance](09_usa_import_from_china_2019_2023.PNG)
 
+**Insight:**  
+This overview captures global trade activity between three major importing economies (USA, Germany, China) and four key supplier countries (China, Japan, Republic of Korea, Netherlands) from 2019 to 2023. The total recorded import value of 8.57T, with an average of 3.38B per transaction, highlights the scale of international trade and underlying supplier dependencies across economies.
+
+### Import Dominance  
+![Import Dominance](09_usa_import_from_china_2019_2023.PNG)
+
+**Insight:**  
+The United States maintains consistently high import levels, reflecting strong reliance on global supply chains and positioning it as a key demand driver in international trade.
+
+### USA Supply Distribution  
+![Supply Distribution](13_usa_supply_distribution.PNG)
+
+**Insight:**  
+China contributes over 64% of total supply to the United States, indicating a high concentration of sourcing and increased vulnerability to supply-side disruptions.
 
 ---
 

@@ -142,7 +142,9 @@ Despite these variations, the analysis maintains consistency in identifying over
 
 ## Dashboard Preview
 
-![Global Supply Chain Dashboard](images/01_dashboard-overview.png)
+![Global Supply Chain Dashboard](01_dashboard-overview.PNG)
+![Important Dominance](09_usa_import_from_china_2019_2023.PNG)
+
 
 ---
 

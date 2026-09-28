@@ -1,5 +1,13 @@
 # Global Supply Chain Insights Dashboard
 
+## Publication & DOI
+
+This project has been archived on Zenodo and is available with a permanent DOI:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21299744.svg)](https://doi.org/10.5281/zenodo.21299744)
+
+**DOI:** [10.5281/zenodo.21299744](https://doi.org/10.5281/zenodo.21299744)
+
 ## Project Overview
 
 This project was developed to analyze global trade patterns using an interactive Power BI dashboard. It focuses on supplier dependencies, import trends, and trade relationships across major economies.
